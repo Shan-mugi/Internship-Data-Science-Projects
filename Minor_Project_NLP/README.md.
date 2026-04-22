@@ -12,7 +12,7 @@ This project applies Natural Language Processing (NLP) to classify 50,000 movie 
 ## 📊 Results
 The model achieved a balanced performance across both sentiment classes:
 * **Accuracy:** 85%
-* **F1-Score:** 0.85
+* **F1-Score:** 0.85 
 
 ## 📁 Dataset Information
 The dataset used for this project is the **IMDB Dataset of 50K Movie Reviews**. 
